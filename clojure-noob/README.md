@@ -8,9 +8,13 @@ Download from http://example.com/FIXME.
 
 ## Usage
 
+- run: `lein run`
+- build: `lein uberjar`
+- repl: `lein repl`
+
 FIXME: explanation
 
-    $ java -jar clojure-noob-0.1.0-standalone.jar [args]
+    $ java -jar target/uberjar/clojure-noob-0.1.0-SNAPSHOT-standalone.jar 
 
 ## Options
 
